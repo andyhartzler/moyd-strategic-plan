@@ -13,11 +13,8 @@ export default function Home() {
             Missouri Young Democrats
           </p>
           <h1 className="text-[2.75rem] leading-[0.9] md:text-7xl lg:text-8xl font-extrabold uppercase tracking-[-0.06em] md:leading-[0.95] text-white mb-4 md:mb-6">
-            Two-Year<br />Strategic Plan
+            2026&ndash;2028<br />Strategic Plan
           </h1>
-          <p className="text-xl md:text-3xl font-bold text-white/60 tracking-[-0.04em] uppercase">
-            2026 &ndash; 2028
-          </p>
         </div>
         <div className="reveal mt-10 md:mt-12 flex flex-col items-center gap-4">
           <DownloadButton />
