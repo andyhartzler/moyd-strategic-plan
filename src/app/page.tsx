@@ -167,7 +167,7 @@ export default function Home() {
         </div>
 
         <div className="glass-tile reveal">
-          <p className="text-white/80 text-sm font-bold uppercase tracking-[0.2em] mb-8">Dear Fellow Young Democrats,</p>
+          <p className="text-white/80 text-sm font-bold uppercase tracking-[0.2em] mb-8">Dear Fellow Democrats,</p>
 
           <div className="space-y-5 text-white/90 leading-relaxed font-medium">
             <p>In January 2025, I had a conversation that altered the direction of my life and, I hope, will help change the future of Missouri. That conversation was with the Executive Director of the Missouri Democratic Party, asking a simple question: &ldquo;What happened to Missouri Young Democrats?&rdquo;</p>
