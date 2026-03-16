@@ -21,6 +21,11 @@ export const metadata: Metadata = {
     type: 'website',
     siteName: 'Missouri Young Democrats',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Two-Year Strategic Plan - Missouri Young Democrats',
+    description: 'The Missouri Young Democrats Two-Year Strategic Plan for 2026-2028. Our blueprint for building youth political power across Missouri.',
+  },
 };
 
 const navLinkStyle = {
